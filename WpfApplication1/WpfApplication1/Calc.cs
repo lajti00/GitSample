@@ -12,6 +12,10 @@ namespace WpfApplication1
         {
             return (int1 + int2);
                 }
+        public int Div(int int1, int int2)
+        {
+            return (int1/int2);
+        }
 
     }
 }
