@@ -25,6 +25,7 @@ namespace WpfApplication1
             InitializeComponent();
             // change 1
             // change 2
+            // change 3
 
         }
     }
