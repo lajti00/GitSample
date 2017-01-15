@@ -8,5 +8,10 @@ namespace WpfApplication1
 {
     class Calc
     {
+        public int Add(int int1, int int2)
+        {
+            return (int1 + int2);
+                }
+
     }
 }
